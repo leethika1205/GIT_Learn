@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("leethika");
+    printf("GIT");
     return 0;
 }
